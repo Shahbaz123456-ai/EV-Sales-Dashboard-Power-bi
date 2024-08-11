@@ -1,2 +1,3 @@
-# EV-Sales-Dashboard-Power-bi
+[IEA Global EV Data 2024.csv](https://github.com/user-attachments/files/16574177/IEA.Global.EV.Data.2024.csv)# EV-Sales-Dashboard-Power-bi
 This repository contains a comprehensive Power BI dashboard focused on tracking and analyzing electric vehicle (EV) sales data. The dashboard provides insights into the growth and trends in the EV market, allowing stakeholders to make data-driven decisions.
+Electric vehicles (EVs) are not just a trend; they are the future of transportation. With the global push towards sustainability, understanding the dynamics of EV sales can provide valuable insights into market trends and future growth. This notebook dives into the global EV sales data from 2010 to 2024, aiming to uncover patterns, trends, and potential predictions.
